@@ -10,5 +10,5 @@ Tukaj je natančen opis, kaj program počne, korak za korakom:
 - Pripravi vizualizacijo (grafikon): Ustvari preprost stolpčni graf (bar chart), ki vizualno prikaže skupno število poštenih transakcij v primerjavi z goljufivimi.
 - Interaktivno iskanje po trgovcu: Na koncu program postane interaktiven. V terminalu ti omogoča vnos ID-ja specifičnega trgovca (npr. 3160040998) in nato izpiše celotno njegovo zgodovino transakcij ter skupno število prevar, povezanih izključno s tem trgovcem. Program deluje, dokler ne vpišeš besede izhod.
 # Avtorji
-Pia Tominec
-Ivona Zikova
+- Pia Tominec
+- Ivona Zikova
